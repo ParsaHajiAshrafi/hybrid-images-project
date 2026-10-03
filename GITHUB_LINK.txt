@@ -1,0 +1,14 @@
+Hybrid Images Project
+=====================
+
+GitHub repository:
+https://github.com/ParsaHajiAshrafi/hybrid-images-project
+
+Automated test result:
+https://github.com/ParsaHajiAshrafi/hybrid-images-project/actions
+
+Main branch: main
+Repository visibility: Public
+
+The repository contains the full source code, alignment GUI, unit tests,
+documentation, aligned source images, and the final hybrid image.
