@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+
+# Local experiments and packaging artifacts
+aligned-original/
+candidate-*.png
+submission/
+hybrid-image-submission.zip
