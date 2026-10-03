@@ -1,5 +1,7 @@
 # پروژه ۱: تصاویر ترکیبی (Hybrid Images)
 
+[![Tests](https://github.com/ParsaHajiAshrafi/hybrid-images-project/actions/workflows/tests.yml/badge.svg)](https://github.com/ParsaHajiAshrafi/hybrid-images-project/actions/workflows/tests.yml)
+
 پیاده‌سازی کامل فیلترگذاری دوبعدی از صفر با Python و NumPy و ساخت یک تصویر
 ترکیبی که در فاصله‌های مختلف، دو برداشت بصری متفاوت ایجاد می‌کند.
 
@@ -67,6 +69,7 @@ Pillow استفاده نشده است. حلقه‌ها روی ضرایب کرن�
 |-- right.png              # ورودی بالاگذر هم‌ترازشده
 |-- hybrid.png             # خروجی نهایی
 |-- requirements.txt       # وابستگی‌های پروژه
+|-- .github/workflows/     # اجرای خودکار آزمون‌ها در GitHub Actions
 `-- README.md
 ```
 
